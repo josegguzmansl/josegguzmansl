@@ -21,17 +21,17 @@
 
 ### Terminal Commands
 
-| Command | What it does |
-|------- | -------------|
-|ls | Lists all current files|
-| cd |Changes directory|
-|mv| Moves files or directory to another directory|
-|clear| Cleans the terminal|
-|pwd| Shows current directory|
+| Command | What it does                                 |
+|---------|----------------------------------------------|
+| ls      | Lists all current files                      |
+| cd      | Changes directory                            |
+| mv      | Moves files or directory to another directory|
+| clear   | Cleans the terminal                          |
+| pwd     | Shows current directory                      |
 
 ### Some helpful shortcuts
 
-| Alias | What it does |
-|------- | -------------|
-|alias untar='tar -zxvf '| Para descomprimir archivos tar en linux con solo "untar ´nombre_de_archivo´"|
-|alias mi_ip='curl ifconfig.me'| Mostrar Direccion Ip publica de manera sencilla|
+| Alias                          | What it does                                    |
+|--------------------------------|-------------------------------------------------|
+| alias untar='tar -zxvf '       | Para descomprimir archivos tar en linux         |
+| alias mi_ip='curl ifconfig.me' | Mostrar Direccion Ip publica de manera sencilla |
